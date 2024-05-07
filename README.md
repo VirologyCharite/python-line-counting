@@ -1,4 +1,4 @@
-# Counting line of Python code in .py and .ipynb files
+# Counting lines of Python code in .py and .ipynb files
 
 Here are two scripts for counting non-blank non-comment lines of code in
 Python or Jupyter (iPython) notebook files.
